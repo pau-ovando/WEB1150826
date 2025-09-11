@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(172, 209, 215);
+}
+
+h1 {
+    color: #4f4f84;
+    font-size: 2em;
+    text-align: center;
+}
+
+p {
+    color: rgb(54, 54, 141);
+    font-size: 15px;
+}
+
+/* clases -> . */
+
+/* .parrafo1 {
+    color: brown;
+    background-color: blueviolet;
+    font-size: 3em;
+}
+*/
+
+/* id declaracion -> # */
+
+#parrafo2 {
+    text-align: justify;
+    background-color: rgb(114, 180, 182);
+
+}
+
+#hora {
+    font-size: 12px;
+    text-align: center;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table th{
+    font-size: 15px;
+    text-align: center;
+    background-color: rgba(219, 218, 218, 0.875);
+}
+
+table td{
+    font-size: 14px;
+    text-align: center;
+}
